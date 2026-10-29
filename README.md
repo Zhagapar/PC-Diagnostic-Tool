@@ -1,5 +1,7 @@
 # PC Diagnostic Tool
 
+![PC Diagnostic Tool](pc-diagnostic-tool.png)
+
 Простая Windows-программа для просмотра характеристик компьютера и проверки свободного места на дисках.
 
 ## Возможности
